@@ -1,37 +1,49 @@
-## Welcome to GitHub Pages
+<h1 align="center"> Graph-L-U-Decomposer </h1> <br>
 
-You can use the [editor on GitHub](https://github.com/behdadmansouri/Graph-L-U-Decomposer/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<p align="center">
+  With a github page! Made using Markdown.
+</p>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<p align="center">
+  <img alt="Download on the App Store" title="App Store" src="http://i.imgur.com/0n2zqHD.png" width="140">
+  <img alt="Get it on Google Play" title="Google Play" src="http://i.imgur.com/mtGRPuM.png" width="140">
+</p>
 
-### Markdown
+## Table of Contents
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- [Introduction](#introduction)
+- [Features](#features)
+- [Feedback](#feedback)
+- [Build Process](#build-process)
+- [Sponsors](#sponsors-)
+- [Acknowledgments](#acknowledgments)
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+## Introduction
 
-- Bulleted
-- List
+This was the first course project for my Linear Algebra class at Amirkabir University of Technology's Computer Engineering faculty.
 
-1. Numbered
-2. List
+**Being available for both iOS and Android was a joke.**
+Just to make this MD more elaborate. Needed for my Internet Engineering class.
 
-**Bold** and _Italic_ and `Code` text
+## Features
 
-[Link](url) and ![Image](src)
-```
+A few of the things you can do with GitPoint:
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+* Decomposes a matrix
+* ...
+* That's it
 
-### Jekyll Themes
+## Feedback
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/behdadmansouri/Graph-L-U-Decomposer/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Feel free to send us feedback here. I won't mind updating this.
 
-### Support or Contact
+## Build Process
+No build. Just run this with your python interperter of choice.
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Sponsors
+Support this project by becoming a sponsor. Your logo will show up here with a link to your website.
+<h3 align="center"> This project had no sponsors </h3> <br>
+## Acknowledgments
+
+All thanks to [Mr. Alvani](https://www.github.com/1995parham) for making this happen.
